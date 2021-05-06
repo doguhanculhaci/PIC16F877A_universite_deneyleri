@@ -6,7 +6,6 @@
 ## Açıklama
 ![image](https://user-images.githubusercontent.com/53540561/117265603-11472980-ae5d-11eb-8da0-6723c528423a.png)
 
-
 ## Arduino Kodları
 
 BU SADECE 1.ŞIKTIR DİĞER ŞIKLAR RAR İÇERİSİNDEDİR.
