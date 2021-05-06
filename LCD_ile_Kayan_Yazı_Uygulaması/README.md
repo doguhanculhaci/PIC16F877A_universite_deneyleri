@@ -4,6 +4,8 @@
 ![image](https://user-images.githubusercontent.com/53540561/117267296-cdedba80-ae5e-11eb-8976-6670cfde0fca.png)
 
 ## Açıklama
+![image](https://user-images.githubusercontent.com/53540561/117267529-0a211b00-ae5f-11eb-9bdb-a9c3181dae76.png)
+
 ![image](https://user-images.githubusercontent.com/53540561/117267320-d3e39b80-ae5e-11eb-9f8a-b8bb82c09d10.png)
 
 ## Arduino Kodları
